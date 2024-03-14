@@ -31,6 +31,7 @@ header .menu ul{
     padding: 0px;
     list-style: none;
     display: flex;
+    justify-content: flex-end;
 }
 
 header .menu ul li {
@@ -38,5 +39,5 @@ header .menu ul li {
 }
   
 header .menu ul li:last-child {
-    margin-right: 0; /* Para eliminar el margen derecho del último elemento */
+    margin-right: 40px; /* Para eliminar el margen derecho del último elemento */
 }
