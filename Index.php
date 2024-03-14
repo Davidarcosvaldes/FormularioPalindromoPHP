@@ -8,7 +8,10 @@
 </head>
 <body>
     <header>
-        <menu class="menu"> 
+        <menu class="menu">
+            <div>
+                eBFactory
+            </div> 
             <ul>
                 <li>Home</li>
                 <li>Contactos</li>
