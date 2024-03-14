@@ -23,7 +23,7 @@ h1{
 header .menu {
     width: 100%;
     font-size: 20px;
-    padding-button: 30px;
+    padding-bottom: 30px;
     background-color: rgb(46, 46, 233);
 }
 
@@ -45,6 +45,6 @@ header .menu ul li:last-child {
 .footer{
     font-size: 20px;
     padding-top: 30px;
-    padding-button: 30px;
+    padding-bottom: 30px;
     background-color: rgb(46, 46, 233) ;
 }

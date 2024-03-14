@@ -16,7 +16,7 @@
             </ul>
         </menu>
     </header>
-    <h1>Palabra Palindromo</h1>
+    <h1>Palabra Palindromo 1.0</h1>
     <br>
     <form action="index.php" method="post">
         <label for="Palabra" >Escribe una Palabra</label>
