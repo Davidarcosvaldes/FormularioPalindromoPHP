@@ -3,7 +3,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     text-align: center;
-    color:rgb(236, 27, 27) ;
+    color: brown;
 }
 h1{
     color: black;
@@ -40,5 +40,5 @@ header .menu ul li {
 }
   
 header .menu ul li:last-child {
-    margin-right: 40px; /* Para eliminar el margen derecho del último elemento */
+    margin-right: 70px; /* Para eliminar el margen derecho del último elemento */
 }
