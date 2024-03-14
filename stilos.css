@@ -47,8 +47,9 @@ header .menu ul li:last-child {
     margin-right: 70px; /* Para eliminar el margen derecho del último elemento */
 }
 .footer{
-    font-size: 16px;
+    font-size: 14px;
     padding-top: 30px;
     padding-bottom: 30px;
-    background-color: rgb(46, 46, 233) ;
+    background-color: rgb(46, 46, 233);
+    color: aliceblue;
 }

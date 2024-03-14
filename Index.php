@@ -50,7 +50,7 @@
 
     <footer>
         <div class="footer">
-            &copy; 2024 eBfactory. Todos los derechos reservados.
+            &copy; David Arcos 2024 eBfactory. Todos los derechos reservados.
         </div>
 
     </footer>
