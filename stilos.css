@@ -42,3 +42,7 @@ header .menu ul li {
 header .menu ul li:last-child {
     margin-right: 70px; /* Para eliminar el margen derecho del último elemento */
 }
+.footer{
+    padding-top: 40px;
+    background-color: rgb(46, 46, 233) ;
+}
