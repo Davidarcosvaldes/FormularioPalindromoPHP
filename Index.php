@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
+    <link rel="stylesheet" href="stilos.css">
 </head>
 <body>
     <h1>Palabra Palindromo</h1>
     <br>
     <form action="index.php" method="post">
         <label for="Palabra" >Escribe una Palabra</label>
-        <input type="text" id="" name="palabra" value="" required />
-        <button type="submit">Comprobar</button>
+        <input type="text" id="" class="input" name="palabra" value="" required />
+        <button type="submit" class="boton" >Comprobar</button>
     </form>
     
     <?php
