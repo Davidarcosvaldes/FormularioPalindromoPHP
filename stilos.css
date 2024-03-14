@@ -22,6 +22,10 @@ h1{
 header .menu {
     width: 100%;
     font-size: 20px;
-
+    
     background-color: rgb(46, 46, 233);
+}
+
+header .menu ul{
+    list-style: none;
 }
