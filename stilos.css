@@ -22,6 +22,21 @@ h1{
 header .menu {
     width: 100%;
     font-size: 20px;
-
+    
     background-color: rgb(46, 46, 233);
+}
+
+header .menu ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+}
+
+header .menu ul li {
+    margin-right: 20px; /* Espacio entre elementos de la lista */
+}
+  
+header .menu ul li:last-child {
+    margin-right: 0; /* Para eliminar el margen derecho del último elemento */
 }
