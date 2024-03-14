@@ -5,6 +5,10 @@ body{
     text-align: center;
     color: #0e0d0d;
 }
+.logo{
+    color: aliceblue;
+    text-align: left;
+}
 h1{
     color: black;
     font-size: 50px;

@@ -9,7 +9,7 @@
 <body>
     <header>
         <menu class="menu">
-            <div>
+            <div class="logo">
                 eBFactory
             </div> 
             <ul>
