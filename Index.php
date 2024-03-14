@@ -7,6 +7,15 @@
     <link rel="stylesheet" href="stilos.css">
 </head>
 <body>
+    <header>
+        <menu class="menu"> 
+            <ul>
+                <li>Home</li>
+                <li>Contactos</li>
+                <li>Acerca de</li>
+            </ul>
+        </menu>
+    </header>
     <h1>Palabra Palindromo</h1>
     <br>
     <form action="index.php" method="post">
@@ -35,7 +44,9 @@
     }
     ?>
 
-    
+    <footer>
+
+    </footer>
     
 </body>
 </html>
