@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulario</title>
+    <title>Formulario 1.0</title>
     <link rel="stylesheet" href="stilos.css">
 </head>
 <body>
@@ -19,7 +19,7 @@
             </ul>
         </menu>
     </header>
-    <h1>Palabra Palindromo 1.0</h1>
+    <h1>Palabra Palindromo</h1>
     <br>
     <form action="index.php" method="post">
         <label for="Palabra" >Escribe una Palabra</label>
@@ -40,7 +40,7 @@
             }
 
             if (esPalindromo($palabra)) {
-                echo "<p>la palabra $palabra si es un palíndromo.</p>";
+                echo "<p>La palabra $palabra si es un palíndromo.</p>";
             } else {
                 echo "<p>La palabra $palabra no es un palíndromo.</p>";
             }       
