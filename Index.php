@@ -48,6 +48,7 @@
     ?>
     <p>Palindromo: Un palindromo es una palabra, frase que se lee igual hacia adelante como hacia atrás ignorando los espacios. </p>
     <p>Tambien se le puede aplicar a una cadena de numeros</p>
+    <p>Master 2</p>
     <footer>
         <div class="footer">
             &copy; David Arcos 2024 eBfactory. Todos los derechos reservados.
